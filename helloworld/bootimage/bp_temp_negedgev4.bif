@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = MCS
+the_ROM_image:
+{
+	[bootloader]K:\users\MKaffine\BetaProbe\BP_Temp_negedge\mz_fsbl\Release\mz_fsbl.elf
+	K:\users\MKaffine\BetaProbe\BP_Temp_negedge\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
+	K:\users\MKaffine\BetaProbe\BP_Temp_negedge\helloworld\Release\helloworld.elf
+}
